@@ -1,10 +1,8 @@
 # bunny
 
-A progress bar like [tqdm](https://github.com/tqdm/tqdm), but with more bunny.
+![bunny training](bunny.gif)
 
 https://twitter.com/tkasasagi/status/1045582451769192449
-
-![bunny training](bunny.gif)
 
 # Usage:
 
